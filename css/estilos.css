@@ -14,7 +14,7 @@ body {
 }
 
 .calculadora{
-    background-color: blue;
+    background-color: rgba(160, 13, 13, 0.842);
     color: white;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -28,7 +28,7 @@ body {
 
 .pantalla{
     grid-column: 1 / -1;
-    background-color: aqua;
+    background-color: rgb(5, 5, 105);
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
